@@ -113,7 +113,7 @@
  
  <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniket7515&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejeshJain&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
   </tr> 
    
  <tr>
