@@ -90,7 +90,7 @@
 <h2 align="center">Visitor Count👨‍💻 !! 😊</h2>
 <p align="center">
   
-  ![VisitorCount!!😊](https://profile-counter.glitch.me/{aniket7515}/count.svg) 
+  ![VisitorCount!!😊](https://profile-counter.glitch.me/{TejeshJain}/count.svg) 
   
 </p>
 </hr>
@@ -101,10 +101,10 @@
    
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aniket7515&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniket7515&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=TejeshJain&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejeshJain&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
-  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=aniket7515&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=TejeshJain&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
    <tr><td>😀</td></tr>
 </table>
     
@@ -117,7 +117,7 @@
   </tr> 
    
  <tr>
-   <td><img src="https://activity-graph.herokuapp.com/graph?username=aniket7515&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+   <td><img src="https://activity-graph.herokuapp.com/graph?username=TejeshJain&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
   <tr><td>😀</td></tr>
