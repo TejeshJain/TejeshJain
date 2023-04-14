@@ -61,7 +61,7 @@
 <a href="https://vs_code.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="git" width="40" height="40"/> 
 
 
-## **"You can ask to me about!**
+<!-- ## **"You can ask to me about!**
 - Front-end development using **React.js**
 - Backend development using **Node.js & Express Js**
 - Data structure and algorithm questions in **JAVA**
@@ -74,7 +74,7 @@
 - I’m looking to collaborate on exciting Open-Source Projects and Hackathons
 - Fun fact: What make me more happy?? **To help others and grow-up together**
  
- 
+  -->
 
 
 
@@ -116,9 +116,9 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejeshJain&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
   </tr> 
    
- <tr>
+<!--  <tr>
    <td><img src="https://activity-graph.herokuapp.com/graph?username=TejeshJain&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
-  <tr><td>😀</td></tr>
+  <tr><td>😀</td></tr> -->
 </table>
