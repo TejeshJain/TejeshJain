@@ -44,7 +44,7 @@
 <a href="https://github.com/TejeshJain/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TejeshJain">
 </a>
-<a href="https://github.com/TejeshJain?tab=followers"><img src="https://img.shields.io/github/followers/Divijkatyal0406?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/TejeshJain?tab=followers"><img src="https://img.shields.io/github/followers/TejeshJain?label=Followers&style=social" alt="GitHub Badge"></a>
 
   
 <hr>
